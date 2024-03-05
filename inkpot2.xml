@@ -105,6 +105,7 @@
   <style name="def:preprocessor" foreground="GreenDeep" bold="true"/>
   <style name="def:error" strikethrough="true" foreground="PinkMid"/>
   <style name="def:note" foreground="PinkMid" bold="true"/>
+  <style name="def:net-address" underline="true"/>
   <style name="def:underlined" italic="true" underline="true"/> <!-- TODO -->
   <style name="latex:display-math" foreground="#slate blue" bold="false"/>  <!-- TODO -->
 
@@ -115,7 +116,6 @@
   <style name="def:thematic-break" bold="true" foreground="OrangePale"/>
   <style name="def:preformatted-section" background="#01010f" />
   <style name="def:inline-code" background="#01010f" />
-  <style name="def:net-address" foreground="BrightBlue" italic="true" underline="low"/>
   <style name="def:link-destination" foreground="BrightBlue" italic="true" underline="low"/>
   <style name="def:link-text" foreground="RedPale"/>
   <style name="def:list-marker" foreground="GreenDeep" bold="true"/>
